@@ -1,5 +1,3 @@
-# 나눔감자체
-
 ![preview](preview.png)
 
 나눔감자체<sub>NanumPotato</sub>는 [SCP 재단 한국어 위키](http://ko.scp-wiki.net)를 위해 만들어진 글꼴입니다.
